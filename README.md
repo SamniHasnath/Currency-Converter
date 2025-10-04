@@ -1,10 +1,6 @@
-OL# Currency-Converter
+## Currency-Converter
 
-![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/SamniHasnath)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/DevGoyalG?tab=repositories)
-
 
 <h1 align="center"> Currency Converter App </h1>
 
@@ -15,7 +11,6 @@ A simple Currency Converter app that allows users to convert one currency into a
 
 ## 📸 Project Preview
 Here's a sneak peek of the Currency Converter App:
-
 <img src="image.png" alt="Project Preview" width="400" height="250">
 
 ## 🚀 Features
