@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="icon" href="https://emojicdn.elk.sh/💱" />
+    <title>Currency Converter</title>
+
+    <link rel="stylesheet" href="style.css" />
+    <!-- FontAweome CDN Link for Icons -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-BMRNB7V39C"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-BMRNB7V39C");
+    </script>
+    <!-- Google tag (gtag.js) END-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>Currency Converter</header>
+      <form action="#">
+        <div class="amount">
+          <p>Enter Amount</p>
+          <input type="text" />
+        </div>
+        <div class="drop-list">
+          <div class="from">
+            <p>From</p>
+            <div class="select-box">
+              <img src="https://flagsapi.com/US/flat/64.png" alt="flag" />
+              <select></select>
+            </div>
+          </div>
+          <div class="icon">
+            <img src="transfer.png" alt="" width="30px" height="30px" />
+          </div>
+          <div class="to">
+            <p>To</p>
+            <div class="select-box">
+              <img src="https://flagsapi.com/LK/flat/64.png" alt="flag" />
+              <select></select>
+            </div>
+          </div>
+        </div>
+        <div class="exchange-rate">Exchange Rate...</div>
+        <button>Convert</button>
+        <br />
+        <br />
+        <div class="love">
+          Made by ❤️
+          <h3>Samni Hasnath</h3>
+        </div>
+      </form>
+    </div>
+
+    <script src="country-list.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
