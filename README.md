@@ -6,9 +6,6 @@
 
 A simple Currency Converter app that allows users to convert one currency into another using real-time exchange rates. The application uses a free API to fetch live exchange rates and perform the currency conversion. It features a clean and intuitive user interface.
 
-## 🌐 Live Demo
-
-
 ## 📸 Project Preview
 Here's a sneak peek of the Currency Converter App:
 <br>
