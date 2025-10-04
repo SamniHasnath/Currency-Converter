@@ -16,7 +16,7 @@ A simple Currency Converter app that allows users to convert one currency into a
 ## 📸 Project Preview
 Here's a sneak peek of the Currency Converter App:
 
-![Project Preview](image.png)
+<img src="image.png" alt="Project Preview" width="400" height="250">
 
 ## 🚀 Features
 - Allows users to convert between various currencies using live exchange rates.
